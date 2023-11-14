@@ -21,7 +21,7 @@
 
 
 # 1. Purpose:
-The Admin role in the Feature Mesh system serves as a linchpin for seamless governance and control over user-published features. This pivotal role is designed to meticulously manage the entire lifecycle of features within the system, wielding authority over their acceptance or rejection. The Admin's primary purpose is to maintain a well-regulated and efficient ecosystem where features align with standards and adhere to platform policies.
+The Admin role in the Feature Mesh system is essential for overseeing and controlling user-published features. This role is tasked with carefully managing the entire lifecycle of features, deciding whether to accept or reject them. The primary goal of the Admin is to maintain an organized and efficient system, ensuring that features meet standards and comply with platform policies.
 
 # 2. Scope:
 The Admin role encompasses a set of responsibilities and privileges that revolve around the governance and management of features within the Feature Mesh system. The key aspects of the Admin role's scope include:
@@ -95,39 +95,6 @@ Activities:
 ### Efficient Feature Governance:
 Objective: Ensure timely and effective review and approval of user-published features.
 Key Results: Reduced feature approval/rejection time, streamlined governance processes.
-
-
-
-# Use Case
-
-### Admin Accesses Feature Management Dashboard:
-•	Description: The Admin logs into the system and navigates to the feature management dashboard.
-•	System Response: The system displays the feature management interface.
-
-### Admin Reviews Pending Features:
-•	Description: The Admin selects the option to review pending features.
-•	System Response: A list of features submitted by Data Scientists for review is presented.
-
-Admin Approves a Feature:
-•	Description: The Admin selects a feature for approval, ensuring it meets required standards.
-•	System Response: The system updates the feature status to "Approved."
-
-### Admin Rejects a Feature:
-•	Description: The Admin selects a feature for rejection, providing reasons for rejection.
-•	System Response: The system updates the feature status to "Rejected" and records the rejection reasons.
-
-### Admin Manages Feature Metadata:
-•	Description: The Admin accesses the metadata management section to ensure completeness and correctness.
-•	System Response: The system allows the Admin to edit and update feature metadata.
-
-### Admin Ensures Security Controls:
-•	Description: The Admin reviews and configures security controls for features.
-•	System Response: The system applies the configured security controls, ensuring data protection.
-
-
-### Admin Performs CRUD Operations:
-•	Description: The Admin executes Corms the requested CRUD operations, updating feature data accordingly.
-
 
 
 # Functional Requirements for the Admin Role:
