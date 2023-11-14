@@ -134,7 +134,7 @@ Key Results: Reduced feature approval/rejection time, streamlined governance pro
 
 # UML-Diagram: 
 ### Use-Case
-![alt text](https://github.com/Darshpatil/NEWS/blob/main/Team-2_Use-Case.png?raw=true)
+![alt text](https://github.com/Darshpatil/NEWS/blob/main/MicrosoftTeams-image%20(1).png?raw=true)
 
 
 ### System-Context Diagram
