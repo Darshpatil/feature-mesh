@@ -140,6 +140,6 @@ Key Results: Reduced feature approval/rejection time, streamlined governance pro
 
 ### System-Context Diagram
 
-![alt text](https://github.com/Darshpatil/NEWS/blob/main/Context%2.PNG?raw=true)
+![alt text](https://github.com/Darshpatil/NEWS/blob/main/Context_2.PNG?raw=true)
 
 
