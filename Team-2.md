@@ -23,6 +23,8 @@
 # 1. Purpose:
 The Admin role in the Feature Mesh system is essential for overseeing and controlling user-published features. This role is tasked with carefully managing the entire lifecycle of features, deciding whether to accept or reject them. The primary goal of the Admin is to maintain an organized and efficient system, ensuring that features meet standards and comply with platform policies.
 
+
+
 # 2. Scope:
 The Admin role encompasses a set of responsibilities and privileges that revolve around the governance and management of features within the Feature Mesh system. The key aspects of the Admin role's scope include:
 
